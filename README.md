@@ -1,6 +1,6 @@
 - 👋 Hi, I’m HishamHamdoon
 - 👀 I’m interested in web programming and mobile application
-- 🌱 I’m currently learning web development using php
+- 🌱 I’m currently learning web development using ASP .Net Core
 - 💞️ I’m looking to collaborate on any good ideas or project
 - 📫I am avialable on hamdon_22@hotmail.com or 00966508945350
 
